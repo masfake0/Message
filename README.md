@@ -1,4 +1,4 @@
-#Our official statement regarding these leaks..
+# Our official statement regarding these leaks..
 
 #Why we leaked ?
 We decided to leak all the codes that were already with many users were actually using it, in order to get them patched all code are actual working codes.
