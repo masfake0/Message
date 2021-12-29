@@ -12,5 +12,5 @@ Yes anything that is being shared in p2p circles will be made public.
 # Why leak CDM (Content Decryption Module).
 That is the base of all tools Streaming Platform Encrypt the files and stream and CDM decrypt and use gets the playback
 
-#A last message
+# A last message
 Streaming sites patch your apps & sites with help of these leaks ,i will continue to leak ..
